@@ -1,0 +1,69 @@
+﻿@using WEB_06.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<WEB_06.Models.KHACHHANG>
+@{
+    ViewBag.Title = "Khachhang";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center;color:royalblue">QUẢN LÝ THÔNG TIN KHÁCH HÀNG</h2>
+
+@*
+<p>
+    @Html.ActionLink("THÊM MỚI", "Themmoikhachhang")
+</p>
+    *@
+<table class="table" border="1">
+    <tr>
+        <th style="width:150px">Họ tên</th>
+        <th style="width:100px">Tài khoản</th>
+        <th style="width:100px">Mật khẩu </th>
+        <th style="width:100px">Email </th>
+        <th style="width:150px">Địa chỉ khách hàng </th>
+        <th style="width:100px">Điện thoại khách hàng </th>
+        <th style="width:100px">Ngày sinh </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Taikhoan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Matkhau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiachiKH) 
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienthoaiKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaysinh)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "Suakhachhang", new { id = item.MaKH }) |
+                @Html.ActionLink("Chi Tiết", "Chitietkhachhang", new { id = item.MaKH }) |
+               
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Khachhang", new { page = page }))
+</div>
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>

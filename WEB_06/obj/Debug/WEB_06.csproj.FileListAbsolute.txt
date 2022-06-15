@@ -1,0 +1,507 @@
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\WEB_06.dll.config
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\WEB_06.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\WEB_06.pdb
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\csc.exe
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\csc.exe.config
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\csc.rsp
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\csi.exe
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\csi.rsp
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\System.AppContext.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\vbc.exe
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\vbc.exe.config
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\vbc.rsp
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\VBCSCompiler.exe
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Antlr3.Runtime.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Newtonsoft.Json.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Helpers.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Mvc.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Optimization.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Razor.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.WebPages.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.WebPages.Razor.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\WebGrease.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Helpers.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Mvc.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Optimization.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.Razor.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.WebPages.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Web.WebPages.Razor.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Newtonsoft.Json.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Antlr3.Runtime.pdb
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\obj\Debug\WEB_06.dll
+C:\Users\NH\Desktop\New folder (3)\WEB_06\WEB_06\obj\Debug\WEB_06.pdb
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\WEB_06.dll.config
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\WEB_06.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\WEB_06.pdb
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\csc.exe
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\csc.exe.config
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\csc.rsp
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\csi.exe
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\csi.rsp
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\vbc.exe
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\vbc.exe.config
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\vbc.rsp
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Antlr3.Runtime.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Helpers.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Mvc.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Optimization.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Razor.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\WebGrease.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Helpers.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Mvc.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Optimization.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.Razor.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Newtonsoft.Json.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.pdb
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\PagedList.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\PagedList.Mvc.dll
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\PagedList.xml
+C:\Users\PC\Desktop\WEB_06\WEB_06\WEB_06\bin\PagedList.Mvc.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\WEB_06.dll.config
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\WEB_06.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\WEB_06.pdb
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\csc.exe
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\csc.exe.config
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\csc.rsp
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\csi.exe
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\csi.rsp
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\System.AppContext.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\vbc.exe
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\vbc.exe.config
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\vbc.rsp
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\VBCSCompiler.exe
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Antlr3.Runtime.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Newtonsoft.Json.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\PagedList.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\PagedList.Mvc.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Helpers.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Mvc.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Optimization.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Razor.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Razor.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\WebGrease.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\PagedList.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\PagedList.Mvc.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Helpers.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Mvc.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Optimization.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.Razor.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Web.WebPages.Razor.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Newtonsoft.Json.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Antlr3.Runtime.pdb
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.dll
+C:\Users\toaav\Desktop\New folder\WEB_06\WEB_06\WEB_06\obj\Debug\WEB_06.pdb
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll.config
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\WEB_06.pdb
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe.config
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.rsp
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.exe
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.rsp
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.AppContext.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe.config
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.rsp
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\PagedList.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\WebGrease.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\PagedList.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.pdb
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.dll
+D:\đồ án cntt\TaiLieuWeb\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.pdb
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll.config
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\WEB_06.pdb
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe.config
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.rsp
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.exe
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.rsp
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.AppContext.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe.config
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.rsp
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\PagedList.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\WebGrease.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\PagedList.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.pdb
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.dll
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.pdb
+C:\Users\letan\Desktop\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll.config
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\WEB_06.pdb
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe.config
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.rsp
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.exe
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.rsp
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.AppContext.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe.config
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.rsp
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\PagedList.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\WebGrease.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\PagedList.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.pdb
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.dll
+D:\bai tap\bai tap\web\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.pdb
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll.config
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WEB_06.pdb
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe.config
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.rsp
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.exe
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.rsp
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.AppContext.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe.config
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.rsp
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WebGrease.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.pdb
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.dll
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.pdb
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csprojAssemblyReference.cache
+C:\Users\tran lenh phu\Documents\Web nâng cao\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll.config
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WEB_06.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WEB_06.pdb
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.exe.config
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csc.rsp
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.exe
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\csi.rsp
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.AppContext.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.exe.config
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\vbc.rsp
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\WebGrease.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\PagedList.Mvc.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Helpers.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Mvc.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Optimization.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.Razor.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Newtonsoft.Json.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Antlr3.Runtime.pdb
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\System.Diagnostics.DiagnosticSource.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.AssemblyReference.cache
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CoreCompileInputs.cache
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.csproj.CopyComplete
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.dll
+D:\HocTap\web\WEB_06\WEB_06\WEB_06\QLDongHo\WEB_06\obj\Debug\WEB_06.pdb

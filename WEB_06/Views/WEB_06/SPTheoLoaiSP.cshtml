@@ -1,0 +1,43 @@
+﻿@using WEB_06.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<DONGHO>
+@{
+    ViewBag.Title = "SPTheoLoaiSP";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2 style="text-align:center;color:red">SP Theo Loại</h2>
+<div class="row">
+    @foreach (var Dongho in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4">
+            <div class="thumbnail">
+                <a href="@Url.Action("Details","WEB_06", new { id = Dongho.Madongho })">
+                    <img alt="@Dongho.Tendongho" src="~/ImagesSP/@Dongho.Anhbia" width="100" />
+
+                    <div>
+                        <br />
+                        <h4 style="text-align:center">
+                            @Dongho.Tendongho
+                        </h4>
+                        <h5 style="text-align:center; color:darkred">
+                            @String.Format("{0:0,0}", @Dongho.Giaban) VNĐ
+                        </h5>
+                        <p></p>
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("SPTheoLoaiSP", new { page = page }))
+</div>
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>
+

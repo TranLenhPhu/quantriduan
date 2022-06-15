@@ -1,0 +1,43 @@
+﻿@model WEB_06.Models.THUONGHIEU
+
+@{
+    ViewBag.Title = "Chitietthuonghieu";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2 style="text-align:center;color:red">THÔNG TIN CHI TIẾT THƯƠNG HIỆU</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên thương hiệu:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenTH)
+        </dd>
+
+        <dt>
+            Địa chỉ:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Diachi)
+        </dd>
+
+        <dt>
+            Điện thoại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dienthoai)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Điều Chỉnh", "Suathuonghieu", new { id = Model.MaTH }) |
+    @Html.ActionLink("Trở Về", "Thuonghieu")
+</p>

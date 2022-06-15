@@ -1,0 +1,12 @@
+﻿@model IEnumerable<WEB_06.Models.THUONGHIEU>
+
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("SPTheoThuongHieu","WEB_06", new { id = item.MaTH })" class="list-group-item">
+            @item.TenTH
+        </a>
+    }
+</div>
+
+
