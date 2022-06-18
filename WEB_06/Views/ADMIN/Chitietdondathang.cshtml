@@ -1,0 +1,61 @@
+﻿@model WEB_06.Models.DONDATHANG
+
+@{
+    ViewBag.Title = "Chitietdondathang";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+    <h2 style="text-align:center;color:red">THÔNG TIN CHI TIẾT ĐƠN ĐẶT HÀNG</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Đã thanh toán
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dathanhtoan)
+        </dd>
+
+        <dt>
+            Tình trạng giao hàng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tinhtranggiaohang)
+        </dd>
+
+        <dt>
+            Ngày đặt
+        </dt>
+
+        <dd>
+            <input type="date" name="Ngaydat" />
+            @Html.DisplayFor(model => model.Ngaydat)
+        </dd>
+
+        <dt>
+            Ngày giao
+        </dt>
+
+        <dd>
+            <input type="date" name="Ngaygiao" />
+            @Html.DisplayFor(model => model.Ngaygiao)
+        </dd>
+
+        <dt>
+            Mã KH
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaKH)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Điều Chỉnh", "Suadondathang", new { id = Model.MaDonHang }) |
+    @Html.ActionLink("Trở Về", "Dondathang")
+</p>
